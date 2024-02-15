@@ -7,6 +7,12 @@
 <h2 align="left">Contact me:</h2>
 💌 jian0924@umn.edu
 
+<div align="center">
+  <img height="200" src="https://imgflip.com/gif/8fypmf"  />
+</div>
+
+###
+
 <h2 align="left">Languages and tools I code with:</h2>
 
 <div align="left">
