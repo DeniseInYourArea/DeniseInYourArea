@@ -8,9 +8,9 @@
 💌 jian0924@umn.edu
 
 <div align="center">
-  <img height="200" src="https://tenor.com/bcpRN.gif"  />
+  <img height="200" src="https://imgflip.com/gif/8fypmf"  />
 </div>
-
+https://imgflip.com/gif/8fypmf
 ###
 
 <h2 align="left">Languages and tools I code with:</h2>
