@@ -3,15 +3,13 @@
 📚 I'm a freshman at University of Minnesota studying Computer Science  
 
 🐈 I love cats  
+<div align="right">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZsMTE5Nmc2emRra3RuejN4OXBsM2ZlbHhoenlnbzhrd2Z0NWVkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fGF41SiGQECSL6ROnn/giphy.gif"  />
+</div>
 
+###
 <h2 align="left">Contact me:</h2>
 💌 jian0924@umn.edu
-
-<div align="center">
-  <img height="200" src="https://imgflip.com/gif/8fypmf"  />
-</div>
-https://imgflip.com/gif/8fypmf
-###
 
 <h2 align="left">Languages and tools I code with:</h2>
 
